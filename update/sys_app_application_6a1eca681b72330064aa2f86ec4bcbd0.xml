@@ -14,16 +14,16 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6a1eca681b72330064aa2f86ec4bcbd0</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>RNS NeedIt</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>RNS</sys_name>
         <sys_overrides/>
         <sys_package display_value="Custom NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="Custom NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_app_application_6a1eca681b72330064aa2f86ec4bcbd0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-19 07:22:21</sys_updated_on>
-        <title>RNS NeedIt</title>
+        <sys_updated_on>2019-07-19 11:21:57</sys_updated_on>
+        <title>RNS</title>
         <view_name/>
     </sys_app_application>
 </record_update>
